@@ -1,2 +1,2 @@
-sptrans
+SPTrans
 =======
